@@ -1,0 +1,18 @@
+[
+    {
+      "username": "john_doe",
+      "password": "1234567890",
+      "email": "john.doe@example.com"
+    },
+    {
+      "username": "jane_smith",
+      "password": "gcrtxectcn",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "username": "bob_jones",
+      "password": "abcdefghij",
+      "email": "bob.jones@example.com"
+    }   
+  ]
+  
